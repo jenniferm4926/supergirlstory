@@ -1,3 +1,8 @@
+
+.superimage {
+    /*font-family: 'Luckiest Guy', cursive;*/
+    text-align: center
+}
 h1 {
     font-family: 'Rock Salt', cursive;
     text-align: center;
@@ -23,6 +28,13 @@ h3 {
 
 /*}*/
 
+
+.backstory {
+    text-align: right;
+    
+
+}
+
 p {
     font-family: 'Shadows Into Light Two', cursive;
     font-size: 20px;
@@ -30,3 +42,4 @@ p {
     margin-right: 500px;
     width: 300px;
 }
+
