@@ -1,4 +1,22 @@
-.superimage {
-    /*font-family: 'Luckiest Guy', cursive;*/
+h1 {
+    font-family: 'Shadows Into Light', cursive;
     text-align: center;
+    font-size: 50px;
+}
+
+h3 {
+        font-size:25px;
+        ;
+}
+
+
+/*p{*/
+/*    text-align:left;*/
+/*    width:300px;*/
+    
+/*}*/
+
+.backstory {
+    text-align: right;
+    
 }
