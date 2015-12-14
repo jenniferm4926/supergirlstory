@@ -4,25 +4,37 @@
     text-align: center
 }
 h1 {
-    font-family: 'Shadows Into Light', cursive;
+    font-family: 'Rock Salt', cursive;
     text-align: center;
-    font-size: 50px;
+    font-size: 40px;
 }
 
 h3 {
-        font-size:25px;
-        ;
+    font-size: 30px;
+    font-family: 'Walter Turncoat', cursive;
 }
 
 
-/*p{*/
-/*    text-align:left;*/
-/*    width:300px;*/
-    
+/*.backstory {*/
+
+
+/*    text-align: right;*/
+
+
 /*}*/
+
 
 .backstory {
     text-align: right;
     
 
 }
+
+p {
+    font-family: 'Shadows Into Light Two', cursive;
+    font-size: 20px;
+    text-align: left;
+    margin-right: 500px;
+    width: 300px;
+}
+
