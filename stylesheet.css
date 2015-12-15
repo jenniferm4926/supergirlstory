@@ -1,13 +1,19 @@
 
 .superimage {
-    /*font-family: 'Luckiest Guy', cursive;*/
-    text-align: center
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
+
+
 h1 {
     font-family: 'Rock Salt', cursive;
     text-align: center;
     font-size: 40px;
-    
+}
+
+h6 {
+    text-align: center;
 }
 
 .superimage{
