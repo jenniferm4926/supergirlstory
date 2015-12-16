@@ -76,12 +76,11 @@ p {
 
 #sub {
         color:white;
-        float:none;
     border: 10px purple double;
     text-align: center;
     padding-bottom: 20px;
-    position: static;
+    position: fixed;
     bottom: 0px;
     right: 0px;
-    width: 225px;
+    width: 300;
 }
