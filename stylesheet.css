@@ -1,47 +1,85 @@
+body {
+    background-image: url("galaxy.jpg");
+}
+
 .superimage {
+    
     display: block;
     margin-left: auto;
     margin-right: auto;
+    border: 25px black solid;
+    padding: 15px;
+    background-color: purple;
+
 }
 
 h1 {
+    color:white;
     font-family: 'Rock Salt', cursive;
     text-align: center;
     font-size: 40px;
+
 }
 
-h4 {
+h3 {
+        color:#e5ccff;
     text-align: center;
     font-family: 'IM Fell English SC', serif;
 }
 
-.superimage {
+h2 {
+        color:#d8b3ff;
+    font-size: 30px;
+    font-family: 'Walter Turncoat', cursive;
     text-align: center;
 }
 
-h3 {
-    font-size: 30px;
-    font-family: 'Walter Turncoat', cursive;
-}
-
 .descript {
+        color:#d8b3ff;
     font-family: 'Shadows Into Light Two', cursive;
     font-size: 20px;
     text-align: left;
-    margin-right: 500px;
+    /*margin-right: 500px;*/
     width: 300px;
+    display: inline-block;
+
 }
 
+li {
+    color:#d8b3ff;
+    text-align: left;
+    margin-left: 500px;
+    width: 500px;
+}
 .backstory {
-    /*margin-left: 750px;*/
-    text-align: right;
-    width: 300px;
+        color:white;
+    text-align: center;
+    position: relative;
+    left: 300px;
+    width: 700px;
 }
 
 p {
+        color:#d8b3ff;
     font-family: 'Shadows Into Light Two', cursive;
     font-size: 20px;
-    text-align: left;
-    margin-right: 500px;
-    width: 300px;
+    text-align: center;
+}
+
+.sequel {
+    text-align: center;
+    font-family: 'IM Fell English SC', serif;
+    font-size: 25px;
+}
+
+
+#sub {
+        color:white;
+    border: 10px purple double;
+    text-align: center;
+    padding-bottom: 20px;
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+    width: 225px;
 }
