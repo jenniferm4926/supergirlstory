@@ -52,8 +52,9 @@ li {
     width: 500px;
 }
 .backstory {
-        color:white;
+    color:white;
     text-align: center;
+    float: none;
     position: relative;
     left: 300px;
     width: 700px;
